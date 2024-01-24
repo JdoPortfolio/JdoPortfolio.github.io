@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for Github!
 
 it now includes steps about pull,fetch and merge
+
+This is a new line to update readme
